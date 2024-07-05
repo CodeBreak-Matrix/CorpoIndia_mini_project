@@ -9,5 +9,6 @@ In order to run and use these scripts, the following packages/libraries are requ
   2. Pandas
   3. csv
   4. OS
-  5. datetime
+  5. datetime<br/>
+
 Some may already be installed with your existing python installation while others may require manual installation using pip module.
